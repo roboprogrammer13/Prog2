@@ -178,7 +178,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 🔗 https://github.com/Piratesk1/Kubat
 
 ![Obrázek 1](images/kubat/obrazek1.png)
-
+![Obrázek 2](images/kubat/obrázek2.png)
 ---
 
 ## Dominik Pavelka
