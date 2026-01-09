@@ -64,7 +64,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 ## Adam Brož
 🔗 https://github.com/Brozovec/broz
 
-![Obrázek 1](images/broz/obrazek1.png)
+![Obrázek 1](images/broz/video_test_gradiant.mkv)
 
 ---
 
