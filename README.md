@@ -155,7 +155,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 ## Hynek Mayrhofer
 🔗 https://github.com/hynekmayrhofer1/Hynek-Mayrhofer
 
-![Obrázek 1](images/mayrhofer/obrazek1.png)
+![Obrázek 1](images/mayrhofer/image.png)
 
 ---
 
