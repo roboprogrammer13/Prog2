@@ -4,6 +4,8 @@ Tento repozitář obsahuje galerii obrázků vytvořených studenty.
 Každý student má vlastní sekci se svým jménem, odkazem na GitHub
 a náhledy obrázků uložených ve složce `images/`.
 
+Hlasování o studentech ohodnocených 1-2: <a href = "https://www.menti.com/algxctsvob1v" target ="_blank">Mentimeter</a>
+
 Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/drive/1IX0X1sry5NnNvipQ6ETWMmxATD_Ig9pm?usp=sharing" target="_blank">ColabTurtleIntro.ipynb</a>
 
 **Rychlá navigace:**  
@@ -118,6 +120,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ![Obrázek 1](images/jiranek/obrazek1.png)
 
+2
 ---
 
 ## Maksym Kravets
@@ -171,6 +174,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ![Obrázek 1](images/milacek/obrazek1.png)
 
+2
 ---
 
 ## Mark Nahornyi
