@@ -66,9 +66,11 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ## Adam Brož
 🔗 https://github.com/Brozovec/broz
+<https://brozovec.eu/video_test_gradiant.mp4>
 
 ![Obrázek 1](https://brozovec.eu/video_test_gradiant.mp4)
 
+1
 ---
 
 ## Vitalii Fenynets
