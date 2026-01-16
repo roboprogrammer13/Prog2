@@ -185,7 +185,7 @@ Základy práce ze seznamy - sdílený soubor <a href="https://colab.research.go
 ## Pavel Kubát
 🔗 https://github.com/Piratesk1/Kubat
 
-![Graf](images/kubat/Graf.png)
+![Graf](images/kubat/graf.png)
 
 ---
 
