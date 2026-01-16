@@ -167,7 +167,6 @@ Graf znázorňuje vztah mezi rokem výroby tramvají a jejich maximální konstr
 
 ## Lukáš Jiránek
 🔗 https://github.com/MentysTV/Jir-nek-Luk-
-<img width="986" height="737" alt="Snímek obrazovky 2026-01-09 100638" src="https://github.com/user-attachments/assets/d15e88ef-15ad-4187-8d31-454ca221f3f6" />
 
 ![Obrázek 1](images/jiranek/obrazek2.png)
 
