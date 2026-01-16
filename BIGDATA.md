@@ -152,6 +152,10 @@ vytváří barevný sloupcový histogram popularity filmových žánrů (Akční
 ## Tomáš Jandák
 🔗 https://github.com/Tjandak/Jandak
 
+Vývoj maximální rychlosti tramvají v čase
+
+Graf znázorňuje vztah mezi rokem výroby tramvají a jejich maximální konstrukční rychlostí. Je patrné, že s postupem času dochází k nárůstu maximálních rychlostí, což odráží technologický pokrok a modernizaci tramvajových vozů.
+
 ![Obrázek 1](images/jandak/graf.png)
 
 ---
