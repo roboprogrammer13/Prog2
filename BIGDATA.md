@@ -203,8 +203,24 @@ Tento projekt je jednoduchý Python skript pro analýzu demografických dat. Jeh
 
 ## Hynek Mayrhofer
 🔗 https://github.com/hynekmayrhofer1/Hynek-Mayrhofer
-
+Histogram hodnocení vybraných filmů
+Graf zpracovává hodnocení deseti vybraných filmů uložených v databázi (název filmu, rok vydání, hodnocení).
+Zohledněna jsou číselná hodnocení filmů v rozmezí přibližně 8,6 až 9,3.
 ![Obrázek 1](images/mayrhofer/Obrazek2.png)
+Jednotlivé sloupce ukazují, kolik filmů spadá do určitého intervalového pásma hodnocení.
+
+Největší koncentrace filmů se nachází v rozmezí 8,7–8,9, což znamená, že většina filmů má velmi vysoké a podobné hodnocení.
+
+Extrémní hodnoty (nejnižší a nejvyšší hodnocení) jsou zastoupeny menším počtem filmů.
+Z grafu vyplývá, že:
+
+Všechny analyzované filmy jsou nadprůměrně až výjimečně hodnocené
+
+Hodnocení jsou málo rozptýlená, což potvrzuje vysokou kvalitu výběru filmů
+
+Průměrné i mediánové hodnocení se pohybuje kolem 8,8, což odpovídá hlavnímu vrcholu histogramu
+
+Celkově lze říci, že databáze obsahuje převážně kriticky oceňované a divácky oblíbené filmy.
 
 ---
 
