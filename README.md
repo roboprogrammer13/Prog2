@@ -252,7 +252,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 ## Jakub Suchánsky
 🔗 https://github.com/jakubsuchansky/Suchansky
 
-![Obrázek 1](images/suchansky/obrazek1.png)
+![Obrázek 1](https://github.com/jakubsuchansky/Suchansky/blob/main/Turtle.png)
 
 ---
 
