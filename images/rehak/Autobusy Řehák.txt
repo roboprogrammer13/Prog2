@@ -1,0 +1,62 @@
+import networkx as nx
+import matplotlib.pyplot as plt
+ 
+# ============================
+# 20 autobusových linek v Praze
+# ============================
+bus_lines = [
+    { "line": "100", "route": "Zličín ↔ Dejvická" },
+    { "line": "110", "route": "Vršní ↔ Spořilov" },
+    { "line": "134", "route": "Spořilov ↔ Palmovka" },
+    { "line": "154", "route": "Černý Most ↔ Záběhlice" },
+    { "line": "177", "route": "Vysočany ↔ Háje" },
+    { "line": "192", "route": "Petřiny ↔ Letňany" },
+    { "line": "200", "route": "Prosek ↔ Řepy" },
+    { "line": "217", "route": "Nádraží Holešovice ↔ Modřany" },
+    { "line": "225", "route": "Nádraží Veleslavín ↔ Vokovice" },
+    { "line": "254", "route": "Černý Most ↔ Letňany" },
+    { "line": "262", "route": "Kačerov ↔ Hermanice" },
+    { "line": "268", "route": "Zličín ↔ Řepy" },
+    { "line": "270", "route": "Sídliště Ďáblice ↔ Černý Most" },
+    { "line": "290", "route": "Prosek ↔ Strašnice" },
+    { "line": "303", "route": "Trojská ↔ Dejvice" },
+    { "line": "325", "route": "Nádraží Holešovice ↔ Suchdol" },
+    { "line": "345", "route": "Letňany ↔ Prosek" },
+    { "line": "369", "route": "Modřany ↔ Kamýk" },
+    { "line": "399", "route": "Zličín ↔ Stodůlky" },
+    { "line": "410", "route": "Bohnice ↔ Vokovice" }
+]
+ 
+# ============================
+# Vytvoření grafu linek
+# ============================
+G = nx.Graph()
+ 
+# Přidání uzlů
+for bus in bus_lines:
+    G.add_node(bus["line"], route=bus["route"])
+ 
+# Propojení linek pokud sdílí zastávku (jednoduchá detekce podle textu)
+for i in range(len(bus_lines)):
+    for j in range(i + 1, len(bus_lines)):
+        r1 = bus_lines[i]["route"]
+        r2 = bus_lines[j]["route"]
+        # Podmínka – sdílí část názvu -> spojení
+        if any(stop in r2 for stop in r1.split()):
+            G.add_edge(bus_lines[i]["line"], bus_lines[j]["line"])
+ 
+# ============================
+# Vykreslení grafu
+# ============================
+plt.figure(figsize=(10, 10))
+nx.draw(
+    G,
+    with_labels=True,
+    node_size=1200,
+    node_color="#4c8bf5",
+    font_size=10,
+    font_weight="bold"
+)
+ 
+plt.title("Graf autobusových linek v Praze")
+plt.show()
