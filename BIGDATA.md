@@ -275,7 +275,7 @@ Graf zobrazuje kolik filmů má stejné hodnoce a průměrné hodnocení. Je vid
 ## Marek Řehák
 🔗 https://github.com/MarekRehak/-eh-k.git
 
-![Obrázek 1](images/rehak/obrazek2.png)
+![Obrázek 1](images/rehak/Graf.png)
 
 
 ---
