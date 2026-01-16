@@ -299,6 +299,7 @@ Graf zobrazuje kolik filmů má stejné hodnoce a průměrné hodnocení. Je vid
 ## Petr Škarvan
 🔗 https://github.com/Petr-Skarvan/skarvan.py
 
+Historický vývoj mzdy v česku ukazuje na extrémní zrychlení růstu příjmů po roce 1990. Tento dramatický skok od stovek korun k desetitisícům odráží nejen ekonomickou transformaci země, ale i hluboké změny v kupní síle a cenové hladině.
 ![Obrázek 1](images/skarvan/obrazek2.png)
 
 ---
