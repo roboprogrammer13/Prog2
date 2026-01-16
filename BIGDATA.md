@@ -72,6 +72,44 @@ Základy práce ze seznamy - sdílený soubor <a href="https://colab.research.go
 ## Adam Brož
 🔗 https://github.com/Brozovec/broz
 
+Popis práce a dosažené výsledky
+Tento notebook provádí základní analýzu jednoduchého datasetu autobusů a demonstruje klíčové kroky při práci s daty pomocí knihoven pandas a matplotlib.
+
+1. Import knihoven
+V úvodu notebooku byly importovány potřebné knihovny: pandas pro práci s datovými rámci a matplotlib.pyplot pro vizualizaci dat.
+
+2. Vytvoření datasetu
+Byl vytvořen malý dataset obsahující informace o autobusech (typ, kapacita osob, rok první výroby). Tento dataset byl následně převeden do datového rámce df knihovny pandas, což umožnilo jeho snadnější manipulaci a analýzu. Zobrazením datového rámce jsme si ověřili jeho správné načtení a strukturu:
+
+                 typ  kapacita  rok_vyroby
+0        Karosa B732        95        1982
+1        Karosa B952       100        2002
+2           SOR NB12       105        2008
+3           SOR NB18       160        2009
+4  Solaris Urbino 12       110        2014
+3. Filtrování dat
+Data byla filtrována tak, aby zobrazovala pouze autobusy vyrobené po roce 2000. Tímto krokem jsme získali podmnožinu dat, která splňuje specifickou podmínku. Výsledek filtrace je následující:
+
+                 typ  kapacita  rok_vyroby
+1        Karosa B952       100        2002
+2           SOR NB12       105        2008
+3           SOR NB18       160        2009
+4  Solaris Urbino 12       110        2014
+4. Řazení dle kapacity
+Dataset byl seřazen podle kapacity autobusů sestupně (od největší po nejmenší). To nám umožnilo rychle identifikovat autobusy s nejvyšší kapacitou. Seřazený datový rámec vypadá takto:
+
+                 typ  kapacita  rok_vyroby
+3           SOR NB18       160        2009
+4  Solaris Urbino 12       110        2014
+2           SOR NB12       105        2008
+1        Karosa B952       100        2002
+0        Karosa B732        95        1982
+5. Vizualizace – histogram kapacit
+Pro lepší pochopení distribuce kapacit autobusů byl vytvořen histogram. Tento graf vizuálně zobrazuje, jak často se jednotlivé rozsahy kapacit v datasetu vyskytují, a poskytuje rychlý přehled o rozložení dat.
+
+Celkově notebook demonstruje základní operace s daty jako je vytváření, filtrování, řazení a vizualizace, které jsou klíčové pro jakoukoliv datovou analýzu.
+
+
 ![Test_gradiant](images/broz/img.png))
 
 ---
