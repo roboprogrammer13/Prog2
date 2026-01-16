@@ -164,7 +164,7 @@ Základy práce ze seznamy - sdílený soubor <a href="https://colab.research.go
 ## Hynek Mayrhofer
 🔗 https://github.com/hynekmayrhofer1/Hynek-Mayrhofer
 
-![Obrázek 1](images/mayrhofer/obrazek2.png)
+![Obrázek 1](images/mayrhofer/Obrazek2.png)
 
 ---
 
