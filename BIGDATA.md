@@ -197,8 +197,16 @@ Graf ukazuje rozložení počtu filmů podle jejich hodnocení IMDb. Na vodorovn
 
 ## Šimon Kubala
 🔗 https://github.com/S-1man/ZacatkyPythonu---Kubala
+Název: Analýza největších měst světa podle počtu obyvatel
 
-![Obrázek 1](images/kubala/obrazek2.png)
+Zpracoval jsem data o deseti největších městech světa, která obsahují název města, počet obyvatel a kontinent. Data jsem analyzoval v jazyce Python ve VS Code.
+
+Z analýzy vyplývá, že největším městem je Tokyo s 37,4 milionu obyvatel a nejmenším městem v datasetu je Karachi s 16,4 milionu obyvatel. Průměrný počet obyvatel města vychází na 22 950 000. Většina měst v datech se nachází v Asii, což ukazuje na vysokou koncentraci velkých měst na tomto kontinentu.
+
+Histogram znázorňuje rozdělení měst podle počtu obyvatel. Je vidět, že většina měst má mezi 18 a 25 miliony obyvatel, zatímco Tokyo výrazně vyčnívá nad ostatními.
+
+Na závěr lze říci, že data nejsou rovnoměrně rozložená a jeden extrémně velký údaj má výrazný vliv na celkový přehled, což histogram dobře ukazuje.
+![Obrázek 1](images/kubala/Obrazek2.png)
 
 ---
 
