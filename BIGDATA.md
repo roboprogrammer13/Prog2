@@ -173,7 +173,8 @@ Vytváří barevný sloupcový histogram popularity filmových žánrů (Akční
 🔗 https://github.com/michal670/Hron---repozit-
 
 ![Obrázek 1](images/hron/obrazek2.png)
-<img width="640" height="480" alt="tramvaje_praha" src="https://github.com/user-attachments/assets/798d7090-e97b-4775-94f0-d284a6fcfe74" />
+<img width="640" height="480" alt="tramvaje_praha_popisky" src="https://github.com/user-attachments/assets/2fd9faf4-f633-4278-b433-59f86634c02c" />
+
 Graf znázorňuje počet tramvajových vozů jednotlivých typových řad provozovaných v Praze. Na vodorovné ose jsou uvedeny jednotlivé řady tramvají, na svislé ose je zobrazen jejich počet v kusech. Nejpočetnější řadou jsou tramvaje Tatra T3R.P s celkovým počtem 298 vozů, následované moderními tramvajemi Škoda 15T, kterých je v provozu 250 kusů. Naopak nejméně zastoupenou řadou je T3M2-DVC s pouhými 13 vozy. Graf přehledně ukazuje rozdíly v zastoupení jednotlivých typů tramvají v pražské městské dopravě.
 
 
