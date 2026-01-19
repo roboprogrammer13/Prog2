@@ -127,6 +127,7 @@ Celkově notebook demonstruje základní operace s daty jako je vytváření, fi
 
 ## Tomáš Filip
 🔗 https://github.com/tomasfilip2009-ship-it/Tom-Filip
+
 Histogram maximálních rychlostí letadel
 
 Databáze: Databáze obsahuje různé modely letadel a jejich maximální rychlosti v km/h.
