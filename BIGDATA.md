@@ -51,7 +51,12 @@ Základy práce ze seznamy - sdílený soubor <a href="https://colab.research.go
 ## Anastasiia Balanets
 🔗 https://github.com/qqqwwwaaarr/Balanets/blob/main/histogram.ipynb
 
+Koláčový graf ukazuje, že většina měření rychlosti spadá do nízkých až středních rychlostí (0–50 Mb/s), zatímco velmi rychlé připojení (200–300 Mb/s) tvoří jen malou část.
+
+Histogramy ukazují rozložení výdrže baterií u mobilů, tabletů a počítačů na základě jednotlivých zařízení. Z grafů je patrné, že mobily mají převážně střední výdrž mezi 7 a 10 hodinami, tablety dosahují delší výdrže především mezi 10 a 16 hodinami a počítače mají nejkratší výdrž, nejčastěji mezi 4 a 8 hodinami. Grafy tak poskytují jasný přehled o typickém rozsahu výdrže pro každý typ zařízení a umožňují snadno srovnat jejich energetickou efektivitu. Celkově histogramy pomáhají vizualizovat, kolik zařízení spadá do jednotlivých intervalů výdrže, což je užitečné pro rychlou orientaci v datech a plánování využití baterií.
+
 ![Obrázek 1](images/balanets/obraz2.png)
+
 
 ---
 
