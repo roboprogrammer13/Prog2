@@ -366,6 +366,7 @@ Graf zobrazuje kolik filmů má stejné hodnoce a průměrné hodnocení. Je vid
 
 ## Marek Řehák
 🔗 https://github.com/MarekRehak/-eh-k.git
+
 Analýza vozového parku tramvají v Praze
 Tento projekt se zaměřuje na vizualizaci dat o tramvajích provozovaných v Praze. Pomocí knihovny Matplotlib v Pythonu jsem vytvořil dva histogramy, které analyzují klíčové vlastnosti těchto vozidel:
 
