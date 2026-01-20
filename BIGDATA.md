@@ -367,12 +367,14 @@ Graf zobrazuje kolik filmů má stejné hodnoce a průměrné hodnocení. Je vid
 ## Marek Řehák
 🔗 https://github.com/MarekRehak/-eh-k.git
 
-Analýza vozového parku tramvají v Praze
-Tento projekt se zaměřuje na vizualizaci dat o tramvajích provozovaných v Praze. Pomocí knihovny Matplotlib v Pythonu jsem vytvořil dva histogramy, které analyzují klíčové vlastnosti těchto vozidel:
+Popis databáze: Pracoval jsem s databází (seznamem tuplů), která obsahuje informace o 16 typech tramvají provozovaných v Praze. Každý záznam obsahuje: typ tramvaje, maximální rychlost v km/h a rok první výroby. Data byla filtrována a seřazena pro účely statistického zpracování.
 
-Distribuce maximální rychlosti: Graf vlevo ukazuje, že většina pražských tramvají dosahuje maximální rychlosti mezi 75–80 km/h. Menší část vozového parku je omezena na rychlost kolem 50–55 km/h.
+Grafická analýza:
+Distribuce maximální rychlosti: Graf vlevo ukazuje, že většina pražských tramvají (80 %) dosahuje rychlosti 75–80 km/h, zatímco starší typy jsou omezeny na 50–55 km/h.
 
-Distribuce let výroby: Pravý graf znázorňuje stáří vozů. Je patrné, že největší obměna vozového parku proběhla po roce 1990, přičemž nejvíce zastoupené jsou modernější typy vyrobené kolem roku 2000.
+Distribuce let výroby: Pravý graf znázorňuje, že největší obměna vozového parku proběhla po roce 1990 s vrcholem kolem roku 2005.
+
+Závěr průzkumu: Analýza ukázala, že vozový park pražských tramvají je technicky rozdělen na dvě výrazné skupiny podle rychlosti a stáří. Z dat vyplývá, že modernizace po roce 1990 výrazně zvýšila průměrnou maximální rychlost i komfort dopravy v Praze.
 
 ![Obrázek 1](images/rehak/Graf.png)
 
