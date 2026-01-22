@@ -234,6 +234,7 @@ Analýza ukazuje, že v souboru dat jsou prezentovány filmy s vysokým hodnocen
 🔗 https://github.com/moonlight-898/Karina
 
 ![Obrázek 1](images/kryvka/obrazek2.png)
+Graf přehledně ukazuje vývoj ceny Bitcoinu za 7 dní. Osa X znázorňuje čas a osa Y aktuální cenu Bitcoinu v USD.
 
 ---
 
