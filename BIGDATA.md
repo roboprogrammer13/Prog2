@@ -257,10 +257,19 @@ Na závěr lze říci, že data nejsou rovnoměrně rozložená a jeden extrémn
 🔗 https://github.com/pepsikolya/stocks
 
 ![Obrázek 1](images/mandziuk/obrazek2.png)
-Vizualizace Hustoty Zalidnění
+Tento projekt slouží primárně k analýze a vizualizaci hustoty zalidnění různých zemí světa.
 
-Tento projekt je jednoduchý Python skript pro analýzu demografických dat. Jeho hlavním cílem je vypočítat hustotu zalidnění (počet obyvatel na km²) pro různé země světa a vizualizovat výsledky formou přehledného grafu.
----
+Zde je krátký popis jeho hlavních funkcí:
+
+1. Výpočet hustoty: Automaticky vypočítá počet obyvatel na km² ze zadaných demografických dat.
+2. Řazení a filtrace: Seřadí země podle hustoty a vybere 15 nejlidnatějších (vzhledem k rozloze).
+3. Vizualizace: Generuje přehledný horizontální sloupcový graf s popisky v češtině.
+
+K projektu je využíván jazyk Python a knihovny Pandas, Seaborn a Matplotlib. Součástí repozitáře je skript kaka.py
+Podle skriptu v tomto repozitáři je hustota zalidnění zpracována následovně:
+1. Skript ji počítá jako podíl počtu obyvatel a rozlohy země (hustota = populace / km^2).
+2. Datový zdroj: Vstupem je seznam zemí definovaný jako n-tice (jméno, rozloha, populace, kontinent).
+3. Výstup: Skript vyfiltruje 15 zemí s nejvyšší hustotou, seřadí je od nejvíce po nejméně zalidněné a vykreslí je do horizontálního sloupcového grafu.
 
 ## Hynek Mayrhofer
 🔗 https://github.com/hynekmayrhofer1/Hynek-Mayrhofer
