@@ -390,7 +390,8 @@ Závěr průzkumu: Analýza ukázala, že vozový park pražských tramvají je 
 ## Matyáš Sauer
 🔗 https://github.com/MatyaSau/Sauer
 
-![Obrázek 1](images/sauer/obrazek2.png)
+![Obrázek 1](images/sauer/letadlarychlost.png)
+![Obrázek 1](images/sauer/letadlastari.png)
 
 ---
 
