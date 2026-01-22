@@ -439,6 +439,7 @@ Historický vývoj mzdy v česku ukazuje na extrémní zrychlení růstu příjm
 
 ## Jakub Suchánsky
 🔗 https://github.com/jakubsuchansky/Suchansky
+
 Grafická část obsahuje čtyři histogramy, které zobrazují rozložení denních teplot během roku z různých pohledů. Celkový histogram znázorňuje obecné rozdělení teplot, zatímco samostatné histogramy zimních a letních dnů se zaměřují na extrémní hodnoty. Poslední graf seřazených teplot poskytuje přehled o celkovém rozsahu a variabilitě dat.
 ![Obrázek 1](https://github.com/jakubsuchansky/Suchansky/blob/main/obrazek2.png)
 
