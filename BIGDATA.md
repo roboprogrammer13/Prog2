@@ -391,7 +391,22 @@ Závěr průzkumu: Analýza ukázala, že vozový park pražských tramvají je 
 ## Matyáš Sauer
 🔗 https://github.com/MatyaSau/Sauer
 
-POPIS TADY
+Projekt analyzuje vybraná vojenská letadla pomocí Pythonu a knihovny matplotlib.
+
+Dataset obsahuje:
+- název letadla
+- rok zavedení
+- maximální rychlost (km/h)
+
+Program:
+- seřadí letadla podle rychlosti
+- najde nejrychlejší stroj (MiG-31 – 3000 km/h)
+- vypočítá průměrnou rychlost
+- zobrazí 2 grafy:
+  - TOP 10 nejrychlejších letadel
+  - rozdělení podle stáří
+
+Cílem projektu je ukázat využití datové analýzy a vizualizace v Pythonu.
 
 ![Obrázek 1](images/sauer/letadlarychlost.png)
 ![Obrázek 1](images/sauer/letadlastari.png)
