@@ -340,7 +340,14 @@ Tento kód slouží jako ukázka tvorby profesionálního analytického dashboar
 ## Mark Nahornyi
 🔗 https://github.com/MarkQTN/SPSD-Nahornyi
 
-![Obrázek 1](images/nahornyi/obrazek2.png)
+Pražský vozový park MHD je tvořen převážně moderními vozidly s průměrným 
+rokem výroby 2012, přičom autobusy dominují s vyšší maximální rychlostí 
+79,2 km/h oproti trolejbusům s 68,3 km/h. Pozitivním trendem je nárůst 
+ekologických elektrobusů v letech 2019-2021, což naznačuje směřování 
+k udržitelnější veřejné dopravě.
+Histogramy jasně dokumentují dvě skupiny vozidel: rychlejší dieselové autobusy (75-85 km/h) a pomalejší trolejbusy/elektrobusy (65-70 km/h), což odpovídá jejich technickým parametrům a využití v hustě osídlené městské zástavbě.
+
+![Obrázek 1](images/nahornyi/btbus.png)
 
 ---
 
