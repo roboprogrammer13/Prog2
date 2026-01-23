@@ -61,6 +61,23 @@ Histogramy ukazují rozložení výdrže baterií u mobilů, tabletů a počíta
 ---
 
 ## Michael Bartuněk
+📊 Aplikace Volby 2025
+Grafická aplikace zobrazující výsledky voleb do Poslanecké sněmovny ČR pomocí čtyř různých vizualizací.
+
+Co obsahuje
+✅ Sloupcový graf - vertikální zobrazení s procenty
+✅ Koláčový graf - procentuální rozdělení hlasů
+✅ Horizontální graf - alternativní pohled na výsledky
+✅ Tabulka - přehledné seřazení od vítěze
+
+Výsledky
+Strana	%
+ANO	35.2% 🥇
+SPOLU	22.8%
+Piráti a STAN	15.4%
+SPD	12.6%
+Přísaha a Motoristé	8.3%
+KSČM	3.2%
 🔗 https://github.com/SkyGod934/Michael-Barunek
 
 ![Obrázek 1](images/bartunek/obrazek2.png)
